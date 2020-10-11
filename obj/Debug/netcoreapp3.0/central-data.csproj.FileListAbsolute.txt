@@ -1,0 +1,11 @@
+D:\projects\dotNetCore\central-data\bin\Debug\netcoreapp3.0\central-data.exe
+D:\projects\dotNetCore\central-data\bin\Debug\netcoreapp3.0\central-data.deps.json
+D:\projects\dotNetCore\central-data\bin\Debug\netcoreapp3.0\central-data.runtimeconfig.json
+D:\projects\dotNetCore\central-data\bin\Debug\netcoreapp3.0\central-data.runtimeconfig.dev.json
+D:\projects\dotNetCore\central-data\bin\Debug\netcoreapp3.0\central-data.dll
+D:\projects\dotNetCore\central-data\bin\Debug\netcoreapp3.0\central-data.pdb
+D:\projects\dotNetCore\central-data\obj\Debug\netcoreapp3.0\central-data.csprojAssemblyReference.cache
+D:\projects\dotNetCore\central-data\obj\Debug\netcoreapp3.0\central-data.AssemblyInfoInputs.cache
+D:\projects\dotNetCore\central-data\obj\Debug\netcoreapp3.0\central-data.AssemblyInfo.cs
+D:\projects\dotNetCore\central-data\obj\Debug\netcoreapp3.0\central-data.dll
+D:\projects\dotNetCore\central-data\obj\Debug\netcoreapp3.0\central-data.pdb
